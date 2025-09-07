@@ -9,6 +9,30 @@
             "request": "launch",
             "type": "dart",
             "program": "lib/row.dart/intermedaim.dart"
-        }
+        },
+        {
+            "name": "card_basic",
+            "request": "launch",
+            "type": "dart",
+            "program": "D:/Flutter/Sunday_Cousre/flutter_course/lib/week5/card/card_basic.dart"
+        },
+        {
+            "name": "card_intermedai",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/week5/card/card_intermedia.dart"
+        },
+        {
+            "name": "card_advance",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/week5/card/card_advance.dart"
+        },
+        {
+            "name": "stack_sample",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/week5/stack/stack_sample.dart"
+        },
     ]
 }

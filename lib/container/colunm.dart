@@ -10,6 +10,7 @@ void main(List<String> args) {
 class RowUsage extends StatelessWidget {
   const RowUsage({super.key});
 
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
